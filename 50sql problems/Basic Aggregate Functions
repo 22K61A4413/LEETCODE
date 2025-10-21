@@ -1,7 +1,7 @@
 1)    Table: Cinema
 +----------------+----------+
 | Column Name    | Type     |
-+----------------+----------+
++----------------+----------+ 
 | id             | int      |
 | movie          | varchar  |
 | description    | varchar  |
